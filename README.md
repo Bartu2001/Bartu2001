@@ -7,5 +7,10 @@
 
 💬 Ask me anything about data pipelines, orchestration, or cloud-based data modeling  
 📫 Reach me at tanacanb@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/bartu-tanacan) 
-• [Medium](https://medium.com/@bartu.tanacan)
+---
+
+## Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bartu-tanacan)  
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bartu.tanacan)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bartu2001)
+
